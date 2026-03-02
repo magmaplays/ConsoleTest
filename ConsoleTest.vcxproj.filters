@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="code.asm">
+    <None Include="ConsoleTest.asm">
       <Filter>Source Files</Filter>
     </None>
   </ItemGroup>
