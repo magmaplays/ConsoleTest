@@ -1,6 +1,6 @@
 # ConsoleTest
 
-Makes a .exe file when assembled and linked correctly that outputs a message with a blue background.
+Makes a .exe file when assembled and linked correctly that outputs a message with a colourful background.
 Closes when you do any keyboard input (including pasting things).
 
 Code for assembler:
